@@ -1,6 +1,6 @@
 # mi-segundo-repositorio💻  
 ## Trabajo practico nr2 ✍️
-##Trabajo colaborativo
+## Trabajo colaborativo  
 ## Actividad 3  conflict-exercise
 Comision 12  
 Matias Costantini
